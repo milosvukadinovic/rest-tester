@@ -1,24 +1,10 @@
-# README
+## This project is about using RestClient
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+### Odin project task:
 
-Things you may want to cover:
+* https://www.theodinproject.com/courses/ruby-on-rails/lessons/basic-routes-views-and-controllers
 
-* Ruby version
+### Contributors:
+* [@azdrenymeri](https://github.com/azdrenymeri) 
+* [@milosvukadinovic](https://github.com/milosvukadinovic)
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-*  ...
